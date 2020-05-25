@@ -22,7 +22,7 @@ cd WEB
 yarn
 ```
 ## RUN aplications
-MOBILE/frontend
+MOBILE/myapp
 ```bash
 expo start
 
